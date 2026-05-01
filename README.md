@@ -9,6 +9,6 @@ This repository contains the current contents of the Trinket M0 microcontroller 
 2. When the boot loader has started, observe TRINKETBOOT in Finder locations.
 3. To install CircuitPython, drag the repository's .uf2 file onto the TRINKETBOOT location.
 4. When you reboot the microcontroller, you should see a location named CIRCUITPYTHON.
-5. Drag the file neopixel.mpy into CIRCUITPYTHON/lib.
+5. Move lib/neopixel.mpy and lib/adafruit_pixelbuf.mpy into CIRCUITPYTHON/lib.
 
 The current version of CircuitPython this repository is version 10.2.0.

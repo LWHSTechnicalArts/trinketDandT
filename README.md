@@ -11,4 +11,4 @@ This repository contains the current contents of the Trinket M0 microcontroller 
 4. When you reboot the microcontroller, you should see a location named CIRCUITPYTHON.
 5. Drag the file neopixel.mpy into CIRCUITPYTHON/lib.
 
-The current version of CircuitPython this repository is version 10.2
+The current version of CircuitPython this repository is version 10.2.0.
